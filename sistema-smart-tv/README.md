@@ -1,5 +1,5 @@
-# Exercitando
-## Vamos criar um exemplo de uma classe para representar uma SmartTV onde:
+## Exercitando
+### Vamos criar um exemplo de uma classe para representar uma SmartTV onde:
 
 1 - Ela tenha as características: ligada (boolean), canal (int) e volume (int);
 
